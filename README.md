@@ -19,7 +19,7 @@
 - 🤡半个ACMer  
   
 
-- 📝[博客](trudbot.cn)  
+- 📝[博客]((https://trudbot.cn/)  
 
 
 <br/>  

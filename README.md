@@ -47,9 +47,10 @@
 
 
 ## Github Stats  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trudbot&theme=dracula&bg_color=0000&color=333)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trudbot&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=trudbot&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=buefy" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
